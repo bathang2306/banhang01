@@ -11,13 +11,13 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.2.RELEASE</version>
+			<version>5.2.19.RELEASE</version>
 		</dependency>
 		<!-- spring-jdbc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jdbc</artifactId>
-			<version>5.2.2.RELEASE</version>
+			<version>5.2.19.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
